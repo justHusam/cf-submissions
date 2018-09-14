@@ -10,7 +10,7 @@ I am collecting my Accepted solutions on various online judges to add them to a 
 [Python 3.x](https://www.python.org/)
 
 
-## Installing
+## Installation
 
 1. Download the source code:
 ```
