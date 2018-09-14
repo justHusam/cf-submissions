@@ -17,7 +17,7 @@ I am collecting my Accepted solutions on various online judges to add them to a 
 git clone https://github.com/justHusam/cf-submissions.git
 cd cf-submissions
 ```
-2. Install the required module to run the code:
+2. Install the required modules to run the code:
 ```
 python3 -m pip install -r requirements.txt
 ```
